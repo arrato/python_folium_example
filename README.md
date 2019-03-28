@@ -1,6 +1,6 @@
 # Python Folium/Leaflet.js Example
 
-> Example showing how to generate a map with markers, custom markers, circle markers, vega visualizations, Geojson and choropleth maps
+If you just want to see how it works, just download repo and start map.html or map2.html
 
 ## Quick Start
 
